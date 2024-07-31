@@ -17,3 +17,6 @@
 
 7 - Quem é a pessoa ?
 <a href="https://github.com/osintbt/artefatos/blob/992e4c50122738e3957a5c7329f1886c61e7bab1/img3.jpg"> Ver </a>
+
+8 - Na entrada desta pequena rua, há um café. Qual é o nome do estabelecimento? 
+<a href="https://github.com/osintbt/artefatos/blob/d5cd2b80b72b8b8d17df47b664ee27b51438c15b/img4.jpg"> Ver </a>
