@@ -6,3 +6,5 @@ Desafios Fáceis - OSINT
 2- É Pai de Quem ? 
 <a href="https://github.com/osintbt/artefatos/blob/94c14fd7ac9586c8a8b0e1aae9f5f0370f3d90e0/img1.png"> Ver </a>
 
+3- Quem é o homem montado no cavalo ? 
+<a href="https://github.com/osintbt/artefatos/blob/8a8354386e2fa5c3f1c65055bb0c8a10bc23a639/img2.png"> Ver </a>
