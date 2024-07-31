@@ -9,4 +9,4 @@ Desafios Fáceis - OSINT
 3- Quem é o homem montado no cavalo ? 
 <a href="https://github.com/osintbt/artefatos/blob/8a8354386e2fa5c3f1c65055bb0c8a10bc23a639/img2.png"> Ver </a>
 
-4- Você pode me dizer a data e o mês de quando o link https://bit.ly/3WtDzWd foi criado ?
+4- Você poderia me dizer a data e o mês de criação oo link https://bit.ly/3WtDzWd ?
