@@ -13,5 +13,5 @@
 
 5- Em que universidade a pessoa trabalha ? https://github.com/waterlee23 
 
-6 - Quem é esta pessoa ?
+6 - Quem é a pessoa ?
 <a href="https://github.com/osintbt/artefatos/blob/992e4c50122738e3957a5c7329f1886c61e7bab1/img3.jpg"> Ver </a>
