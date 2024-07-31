@@ -1,4 +1,4 @@
 Desafios Fáceis - OSINT 
 
 1 - De quem é o email ? 
-[file] (https://github.com/osintbt/easy/blob/c65c7fa190ad7385b026c35c9639a44aae4fe164/email) 
+https://github.com/osintbt/artefatos/blob/b7b4a3cc1f5ca1825b75151b39d09d30fc54c663/pb.asc
