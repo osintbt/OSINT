@@ -13,7 +13,7 @@
 
 5- Em que universidade a pessoa trabalha ? https://github.com/waterlee23 
 
-6- Qual é o nome deste livro 978-65-5821-125-9 ?
+6- Quem é o Autor 978-65-5821-125-9 ?
 
 7 - Quem é a pessoa ?
 <a href="https://github.com/osintbt/artefatos/blob/992e4c50122738e3957a5c7329f1886c61e7bab1/img3.jpg"> Ver </a>
