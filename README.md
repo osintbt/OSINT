@@ -12,3 +12,6 @@
 4- Você poderia me dizer a data e o mês de criação do link https://bit.ly/3WtDzWd ?
 
 5- Em que universidade a pessoa trabalha ? https://github.com/waterlee23 
+
+6 - Quem é esta pessoa ?
+<a href="https://github.com/osintbt/artefatos/blob/992e4c50122738e3957a5c7329f1886c61e7bab1/img3.jpg"> Ver </a>
