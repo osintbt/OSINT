@@ -1,4 +1,4 @@
-<b>DESAFIOS DE NÍVEL BÁSICO  - OSINT </b>
+<b>DESAFIOS OSINT - Nível Básico </b>
 
 1 - De quem é o email ? 
 <a href="https://github.com/osintbt/artefatos/blob/b7b4a3cc1f5ca1825b75151b39d09d30fc54c663/pb.asc"> Ver </a>
