@@ -20,3 +20,6 @@
 
 8 - Logo na entrada desta rua, há um café. Qual é o nome do estabelecimento? 
 <a href="https://github.com/ianare/exif-samples/blob/master/jpg/gps/DSCN0042.jpg"> Ver </a>
+
+9- Precisamos localizar um passageiro. Você poderia me informar em qual assento ele está?
+<a href="https://github.com/osintfaruk/artefatos/blob/e9092e5def7716a58205424a0446e85823d6e59d/board.png"> Ver </a>
