@@ -24,5 +24,5 @@
 9- Precisamos localizar um passageiro. Você poderia me informar em qual assento ele está?
 <a href="https://github.com/osintfaruk/artefatos/blob/e9092e5def7716a58205424a0446e85823d6e59d/board.png"> Ver </a>
 
-10 - Em que dia é mês foi comemorado este aniversário ? 
+10 - Em que dia, ano e mês foi comemorado este aniversário ? 
 <a href="https://github.com/osintfaruk/artefatos/blob/1a4930de765db39c7593ba5968454553ed878b84/local.png"> Ver </a>
